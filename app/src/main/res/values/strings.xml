@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CyberBrowser</string>
+    <string name="default_url">https://cyber-cyber.web.app</string>
+    <string name="url_hint">https://cyber-cyber.web.app</string>
+    <string name="action_open">Ouvrir</string>
+    <string name="action_back">Précédent</string>
+    <string name="action_forward">Suivant</string>
+    <string name="action_reload">Recharger</string>
+    <string name="action_hide_bar">Masquer la barre</string>
+    <string name="action_show_bar">Afficher la barre</string>
+    <string name="action_test_panel">Test &amp; Priorité</string>
+    <string name="action_external_login">Connexion externe</string>
+    <string name="battery_banner_restricted">Optimisation batterie active : l\'arrière-plan peut être coupé</string>
+    <string name="battery_banner_action">Exclure</string>
+    <string name="notif_channel_service_name">Surveillance arrière-plan</string>
+    <string name="notif_channel_service_desc">Maintient CyberBrowser actif pendant la lecture de vidéos en premier plan</string>
+    <string name="notif_channel_alerts_name">Alertes vocales CyberBrowser</string>
+    <string name="notif_channel_alerts_desc">Notifications haute priorité lors des alertes vocales</string>
+    <string name="notif_service_title">CyberBrowser actif en arrière-plan</string>
+    <string name="notif_service_text">Surveillance temps réel et Audio Ducking prêts</string>
+    <string name="notif_service_countdown">Test Audio Ducking dans %1$d s…</string>
+    <string name="notif_action_stop">Arrêter</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "CyberBrowser",
+  "description": "Mini navigateur temps réel léger avec AudioFocus Ducking, synthèse vocale française et maintien en arrière-plan (Android 6 à 15+).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
